@@ -1,0 +1,24 @@
+The system here will likely be converted to Python or C++, but as of the initial creation of this git, my main language is Java.
+This system will be object oriented and (hopefully) mechanically flexible.
+
+The basis of this project is as follows:
+
+  An open ended, open source system that contains basic rules and regulations
+  with the ability to incorporate up to 3 different types of modules
+    
+     The Modules are Properties, World, and Story.
+      
+      Properties contains information about the game such as prebuilt spells, weapons, armor, creatures, and more. 
+      This is all hard-coded logic within the specific version of the game being run.
+      
+      World contains information about the world of the game. This includes maps, layouts, biomes, blueprints, terrians, etc.
+      These are used to show the world around the characters.
+      
+      Story contains information about NPCs, relationships, lore, and plot.
+      These rely on specific worlds and can be combined for parallel story.
+      
+ Each of these modules will have a new, prebuilt format for each that is taken in by the system to be incorporated for use.
+ 
+ 
+ Some systems will be hard-coded into the base system (such as gravity, basic chemistry, rules about magic, etc.)
+ These can be overridden or bent for use, and as such as built rigidly.
