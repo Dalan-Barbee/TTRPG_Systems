@@ -1,0 +1,42 @@
+5 Traits:
+
+STR | AGI | INT | SPI | CHA
+
+25 Stats:
+
+	Equipment Skills:
+	Light Weapon
+	Heavy Weapon
+	Shield
+	Light Armor
+	Heavy Armor
+
+	Spiritual Skills:
+	Composure
+	Intuition
+	Faith
+	Adaptability
+
+	Intelligence Skills:
+	Perception
+	Tactical
+	Manipulation
+	Creation
+
+	Strength Skills:
+	Labour
+	Fortitude
+	Resilience
+	Might
+	
+	Agility Skills:
+	Reflexes
+	Marksmanship
+	Flexibility
+	Finesse
+
+	Charisma Skills:
+	Intimidation
+	Impersonation
+	Theatrics
+	Charm
